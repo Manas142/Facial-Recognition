@@ -1,4 +1,4 @@
-# Signup Application
+# Facial Recognition Application
 
 A full-stack user signup system that allows users to register, verify their email, and upload files. Built with **Express** for the backend, **MongoDB** for data storage, and **TailwindCSS** for responsive, modern styling.
 
